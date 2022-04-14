@@ -12,5 +12,5 @@ The function called createTable() which will create a table named Movies to the 
 ## 3. Inserting data into Movies table
 The function called insert() which will accept the Movie_Id, Movie_Name , Lead Actor ,Actress ,Year and Director Name.
 
-## 4 Querying data from Movies table
+## 4. Querying data from Movies table
 The function called selectAll() will query all rows from the Movies table, selectparam() will query the movie name of the given actor in which he has acted.

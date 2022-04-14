@@ -123,7 +123,7 @@ public class Movies {
         a.insert(102,"BAAHUBALI","PRABHAS","ANUSHKA","2015","RAJAMOULI");
         a.insert(103,"The Pursuit of Happyness","Will Smith","Thandiwe Newton","2006","Gabriele Muccino");
         a.insert(104,"Mission: Impossible 2","Tom Cruise","Thandiwe Newton","2000","John Woo");
-        a.insert(105,"K.G.F: Chapter 2","Yash","Srinidhi Shetty","2022","Prashanth Neel");;
+        a.insert(105,"K.G.F: Chapter 2","Yash","Srinidhi Shetty","2022","Prashanth Neel");
         a.insert(106,"Top Gun","Tom Cruise","Kelly McGillis","1986","Tony Scott");
         a.insert(107,"The Mummy","Tom Cruise","Sofia Boutella","2017","Alex Kurtzman");
         a.selectAll();
